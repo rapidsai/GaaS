@@ -1,3 +1,10 @@
-# GaaS has moved to https://github.com/rapidsai/cugraph/tree/branch-22.10/python/cugraph_service
+# <center>ARCHIVED</center>
 
-## Please use https://github.com/rapidsai/cugraph to submit issues and retrieve the latest sources.
+This repo is no longer under development or support.  All issues/PR will be ignored
+
+
+The GaaS code has been merged into the main cuGraph monorepo and is now called cugraph-service
+
+Please use https://github.com/rapidsai/cugraph to submit issues and retrieve the latest sources.
+
+# <center>ARCHIVED</center>
